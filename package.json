@@ -1,7 +1,21 @@
 {
   "name": "sails-hook-blueprints-offshore",
   "version": "0.0.1",
-  "description": "Blueprints for offshore",
+  "description": "Blueprints hook for Offshore ORM in Sails",
+  "contributors": [
+    {
+      "name": "Michal Galas",
+      "github": "https://github.com/bonanzakrak"
+    }
+  ],
+  "keywords": [
+    "sailsjs",
+    "sails.js",
+    "sails-hook",
+    "hook",
+    "offshore",
+    "blueprints"
+  ],
   "main": "index.js",
   "sails": {
     "isHook": true
